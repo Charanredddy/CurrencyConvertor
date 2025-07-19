@@ -24,15 +24,7 @@ style.css: CSS file for styling the application.
 app.js: JavaScript file containing the logic for fetching exchange rates and updating the UI.
 codes.js: JavaScript file containing the country-currency mapping (countryList).
 
-Setup
 
-Clone the repository:git clone https://github.com/your-username/currency-converter.git
-
-
-Navigate to the project directory:cd currency-converter
-
-
-Open index.html in a web browser to run the application locally. No additional server setup is required as it uses CDN-based APIs.
 
 Usage
 
